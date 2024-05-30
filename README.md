@@ -35,7 +35,7 @@ Ensure you have Flutter installed on your machine. You can follow the official [
    ```
 2. Navigate to the project directory
    ```sh
-   cd repo_name
+   cd easy_science
    ```
 3. Install the dependencies
    ```sh
